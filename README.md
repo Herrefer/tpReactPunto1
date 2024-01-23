@@ -19,4 +19,4 @@ El punto 1 de este trabajo es hacer reproducir en pantalla un texto que diga "He
 - Herrera Victor Fernando
 
 ### Para probar el proyecto
-solo deben dirigirse al siguiente link : 
+solo deben dirigirse al siguiente link : https://tpreactpunto1.netlify.app/
