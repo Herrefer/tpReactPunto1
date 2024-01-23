@@ -5,10 +5,15 @@ El trabajo practico en general consiste en resolver ejercicios, de simples a com
 
 El punto 1 de este trabajo es hacer reproducir en pantalla un texto que diga "Hello world!"
 
-### Herramientas utilizadas             Lenguajes utilizados
-- React                                 - HTML
-- Vite                                  - CSS
-- React + Bootstrap                     - JavaScript
+### Herramientas utilizadas           
+- React                                 
+- Vite                                  
+- React + Bootstrap                     
+
+### Lenguajes utilizados
+- HTML
+- JavaScript
+- CSS
 
 ### Participantes
 - Herrera Victor Fernando
