@@ -1,12 +1,10 @@
 import "./App.css";
-
+import Mensaje from "./components/Mensaje"
 function App() {
   return (
-    <article>
-      <p>
-        <b>Hello World!</b>
-      </p>
-    </article>
+    <main>
+      <Mensaje></Mensaje>
+    </main>
   );
 }
 
